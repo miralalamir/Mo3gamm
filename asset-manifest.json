@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Mo3gamm/static/css/main.f4982dc5.css",
-    "main.js": "/Mo3gamm/static/js/main.de6ec321.js",
+    "main.js": "/Mo3gamm/static/js/main.235b4c27.js",
     "static/js/453.05906564.chunk.js": "/Mo3gamm/static/js/453.05906564.chunk.js",
     "index.html": "/Mo3gamm/index.html",
     "main.f4982dc5.css.map": "/Mo3gamm/static/css/main.f4982dc5.css.map",
-    "main.de6ec321.js.map": "/Mo3gamm/static/js/main.de6ec321.js.map",
+    "main.235b4c27.js.map": "/Mo3gamm/static/js/main.235b4c27.js.map",
     "453.05906564.chunk.js.map": "/Mo3gamm/static/js/453.05906564.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f4982dc5.css",
-    "static/js/main.de6ec321.js"
+    "static/js/main.235b4c27.js"
   ]
 }
